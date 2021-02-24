@@ -1,0 +1,6 @@
+# dependencies
+/node_modules
+.expo/
+
+# misc
+.DS_Store
